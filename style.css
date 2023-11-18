@@ -85,4 +85,6 @@ body{
         margin: 5px 0;
         background: linear-gradient(rgb(106, 29, 106), rgb(34, 230, 230));
     }
+    body{
+        background: linear-gradient(rgb(106, 29, 106), rgb(34, 230, 230));
 }
